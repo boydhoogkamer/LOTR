@@ -7,3 +7,5 @@
 Het resultaat zie je op: https://youtu.be/9s0KxNCn04Q
 
 Presentatie: https://docs.google.com/presentation/d/1JX0JCi2j37DhGlKyG0OusE2Th77yq8l0QG5XqoFcdjE/edit?usp=sharing
+
+Instructie: https://blanken5.home.xs4all.nl/bootstrap.html
