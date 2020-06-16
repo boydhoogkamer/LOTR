@@ -1,0 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+// Ik heb de alternatieve (en betere) manier expres niet gebruikt omdat het niet goed werkte.
+
+
+
+h3 {
+    font-family: 'Metal Mania', cursive;
+}
+
+h1 {
+    font-family: 'Cormorant Garamond', serif;
+}
